@@ -4,5 +4,4 @@ def get_filelist():
     filelist = []
     for file in glob.glob("*.txt"):
         filelist = filelist + [file]
-    print(filelist)
     return filelist

@@ -1,0 +1,15 @@
+{
+    CMTE_ID:
+        {
+            DATE:[
+                Running_median:[]
+                Total_transaction_count:[]
+                total_transaction_amount:[]
+            ]
+            ZIP:[
+                Running_median:[]
+                Total_transaction_count:[]
+                total_transaction_amount:[]
+            ]
+        }
+}
