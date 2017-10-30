@@ -1,2 +1,2 @@
-def process(filename):
-    return filename
+def process_data(data):
+    return data
