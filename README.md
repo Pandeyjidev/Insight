@@ -24,7 +24,7 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-There are no major dependencies as such for this project. Incase you find any issue installing the project, kindly mail me at (utkarsh DOT pandey178 AT <gmail> DOT com)
+There are no major dependencies as such for this project. Incase you find any issue installing the project, kindly mail me at (utkarsh DOT pandey178 AT |gmail| DOT com) or raise an issue on github
 
 
 
@@ -54,14 +54,20 @@ at the bottom
 ## Ways to improve the project
 
 1> This is my first project using python, so incase you find any time complexities or a better solution for algo/code. Kindly let me know so that I can make the necessary changes
+
 2> We can use Multithreading to divide the data into chunks and then process accordingly to avoid buffer overflows.
+
 3> One more way to avoid buffer overflow is to read no more than 10000 data into the array to clean/process in "main.py"
   - use chunks of data and save it in an intermediary file
   - before reading the next chunk load this data 
   - i've used a dictionary to help scale the code for further improvements
+  
 4> Can make better test cases
+
 5> Can use chron_sort.py for chronological sorting
+
 6> Can move Median fucntion to another file.
+
 7> I'm sure there will be more, I will be glad if you mail me your honest feedback or any suggestion regarding the repository
 
 
