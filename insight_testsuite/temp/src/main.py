@@ -4,6 +4,7 @@ from filelist import get_filelist
 from clean import clean_data_for_processing
 from process import process_data
 from calculate import calculate_data
+from calculate import median
 from print_data import print_list
 def runner(delimiter):    
     cwd = os.path.dirname(os.path.realpath(__file__))
