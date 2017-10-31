@@ -1,3 +1,4 @@
+//old dictionary
 {
     CMTE_ID:
         {
@@ -15,7 +16,7 @@
 }
 
 
-
+// The new dictionary with two keys
 {
     CMTE_ID,DATE:[
                 Running_median:[]

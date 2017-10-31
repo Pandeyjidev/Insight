@@ -16,6 +16,7 @@ def runner(delimiter):
         processed_data = process_data(clean_data)
         # Calculate and Restructure data to print
         # getting a retuned value as calculated data for scaling up
+        # print(processed_data)
         calculated_data = calculate_data(processed_data)        
 if __name__ == '__main__':
     delimiter = '|'
